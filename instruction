@@ -1,0 +1,5 @@
+1. init
+terraform init
+
+2. apply
+terraform apply
